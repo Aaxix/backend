@@ -1,0 +1,43 @@
+{
+    "company": {
+      "name": "Anran Nami Wellness Centre (Butterworth)\nSdn. Bhd. (1557621-X)",
+      "address": "Butterworth Business City Centre, 1-3-1, Jalan\nRaja Uda, 12300 Butterworth, Penang"
+    },
+    "invoiceDetails": {
+      "invoiceName": "Training Invoice",
+      "invoiceNumber": "INV-001",
+      "transactionBy": "Admin"
+    },
+    "items": [
+      {
+        "description": "BW",
+        "price": 490.00
+      },
+      {
+        "description": "CW",
+        "price": 90.00
+      },
+      {
+        "description": "DW",
+        "price": 84.00
+      },
+      {
+        "description": "EW",
+        "price": 520.00
+      },
+      {
+        "description": "FW",
+        "price": 100.30
+      }
+    ],
+    "total": {
+      "subtotal": 1284.30,
+      "total": 1284.30,
+      "paymentMethod": "Visa",
+      "paid": 0.00,
+      "change": 0.00
+    },
+    "discount": {
+      "total": 0.00
+    }
+}
